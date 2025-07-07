@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jail", "Jail\Jail.csproj", "{B2B97E28-ED86-4661-86C9-7B22DB033354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2B97E28-ED86-4661-86C9-7B22DB033354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B97E28-ED86-4661-86C9-7B22DB033354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B97E28-ED86-4661-86C9-7B22DB033354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B97E28-ED86-4661-86C9-7B22DB033354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08118883-B4FC-4990-90FE-84E36D907A39}
+	EndGlobalSection
+EndGlobal

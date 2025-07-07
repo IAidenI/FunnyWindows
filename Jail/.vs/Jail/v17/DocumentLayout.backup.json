@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|c:\\users\\boler\\documents\\c sharp\\jail\\jail\\jailgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|solutionrelative:jail\\jailgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|c:\\users\\boler\\documents\\c sharp\\jail\\jail\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|solutionrelative:jail\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|c:\\users\\boler\\documents\\c sharp\\jail\\jail\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|solutionrelative:jail\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|C:\\Users\\boler\\Documents\\C sharp\\Jail\\jail\\jailgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|solutionrelative:jail\\jailgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|c:\\users\\boler\\documents\\c sharp\\jail\\jail\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|solutionrelative:jail\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|C:\\Users\\boler\\Documents\\C sharp\\Jail\\jail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B97E28-ED86-4661-86C9-7B22DB033354}|Jail\\Jail.csproj|solutionrelative:jail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\Chest.cs",
+              "RelativeDocumentMoniker": "Jail\\Chest.cs",
+              "ToolTip": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\Chest.cs",
+              "RelativeToolTip": "Jail\\Chest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:28:01.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\Chest.cs",
+              "RelativeDocumentMoniker": "Jail\\Chest.cs",
+              "ToolTip": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\Chest.cs [Design]",
+              "RelativeToolTip": "Jail\\Chest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:27:58.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JailGame.cs",
+              "DocumentMoniker": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\JailGame.cs",
+              "RelativeDocumentMoniker": "Jail\\JailGame.cs",
+              "ToolTip": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\JailGame.cs",
+              "RelativeToolTip": "Jail\\JailGame.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:39:55.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JailGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\JailGame.cs",
+              "RelativeDocumentMoniker": "Jail\\JailGame.cs",
+              "ToolTip": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\JailGame.cs [Design]",
+              "RelativeToolTip": "Jail\\JailGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:39:20.792Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\Maze.cs",
+              "RelativeDocumentMoniker": "Jail\\Maze.cs",
+              "ToolTip": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\Maze.cs",
+              "RelativeToolTip": "Jail\\Maze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:40:32.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\Program.cs",
+              "RelativeDocumentMoniker": "Jail\\Program.cs",
+              "ToolTip": "C:\\Users\\boler\\Documents\\C sharp\\Jail\\Jail\\Program.cs",
+              "RelativeToolTip": "Jail\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:34:23.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

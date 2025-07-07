@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boler\\Documents\\C sharp\\Camera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A940D0D4-6DFC-416F-8548-EFB49CF1D9DF}|Camera\\Camera.csproj|c:\\users\\boler\\documents\\c sharp\\camera\\camera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A940D0D4-6DFC-416F-8548-EFB49CF1D9DF}|Camera\\Camera.csproj|solutionrelative:camera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A940D0D4-6DFC-416F-8548-EFB49CF1D9DF}|Camera\\Camera.csproj|C:\\Users\\boler\\Documents\\C sharp\\Camera\\camera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A940D0D4-6DFC-416F-8548-EFB49CF1D9DF}|Camera\\Camera.csproj|solutionrelative:camera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\boler\\Documents\\C sharp\\Camera\\Camera\\Form1.cs",
+              "RelativeDocumentMoniker": "Camera\\Form1.cs",
+              "ToolTip": "C:\\Users\\boler\\Documents\\C sharp\\Camera\\Camera\\Form1.cs",
+              "RelativeToolTip": "Camera\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:26:42.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\boler\\Documents\\C sharp\\Camera\\Camera\\Form1.cs",
+              "RelativeDocumentMoniker": "Camera\\Form1.cs",
+              "ToolTip": "C:\\Users\\boler\\Documents\\C sharp\\Camera\\Camera\\Form1.cs [Design]",
+              "RelativeToolTip": "Camera\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:25:00.695Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
